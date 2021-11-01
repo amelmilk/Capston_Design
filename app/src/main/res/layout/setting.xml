@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/imgbtn1"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/switch1"
+                android:padding="0sp"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"/>
+
+            <ImageButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/swtich2"
+                android:padding="0sp"
+                android:scaleType="centerCrop"
+                android:layout_marginTop="20dp"
+                android:id="@+id/imgbtn2"
+                android:layout_gravity="center"/>
+
+            <ImageButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/lever1"
+                android:padding="0sp"
+                android:scaleType="centerCrop"
+                android:layout_marginTop="20dp"
+                android:id="@+id/imgbtn3"
+                android:layout_gravity="center"/>
+
+
+
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Capston_Design</string>
+    <string name="setbtn1">거실</string>
+    <string name="setbtn2">안방</string>
+    <string name="setbtn3">화장실</string>
+    <string name="setbtn4">방 관리(설정)</string>
+    <string name="setbtn5">앱 시작</string>
+    <string name="Off">OFF</string>
+    <string name="On">On</string>
+    <string name="Back">뒤로가기</string>
+    <string name="Big">대변</string>
+    <string name="Small">소변</string>
+</resources>
