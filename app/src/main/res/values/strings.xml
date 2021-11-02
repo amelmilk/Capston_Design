@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Capston_Design</string>
+    <string name="app_name">스마트홈 IoT</string>
     <string name="setbtn1">거실</string>
     <string name="setbtn2">안방</string>
     <string name="setbtn3">화장실</string>
@@ -10,4 +10,5 @@
     <string name="Back">뒤로가기</string>
     <string name="Big">대변</string>
     <string name="Small">소변</string>
+    <string name="one">삶을 더 풍요롭게</string>
 </resources>

@@ -51,7 +51,7 @@ public class Room2 extends Activity {
         btn4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "전원 ON", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "전원 OFF", Toast.LENGTH_SHORT).show();
             }
         });
 
