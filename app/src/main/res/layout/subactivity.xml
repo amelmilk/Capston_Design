@@ -11,7 +11,9 @@
         android:layout_height="wrap_content"
         android:text="@string/setbtn1"
         android:layout_gravity="center"
-        android:layout_marginTop="200dp"/>
+        android:layout_marginTop="200dp"
+        android:background="#00ff0000"
+        android:textSize="20dp"/>
 
     <Button
         android:id="@+id/btn2"
@@ -19,7 +21,9 @@
         android:layout_height="wrap_content"
         android:text="@string/setbtn2"
         android:layout_gravity="center"
-        android:layout_marginTop="90dp"/>
+        android:layout_marginTop="90dp"
+        android:background="#00ff0000"
+        android:textSize="20dp"/>
 
     <Button
         android:id="@+id/btn3"
@@ -27,7 +31,9 @@
         android:layout_height="wrap_content"
         android:text="@string/setbtn3"
         android:layout_gravity="center"
-        android:layout_marginTop="90dp"/>
+        android:layout_marginTop="90dp"
+        android:background="#00ff0000"
+        android:textSize="20dp"/>
 
     <Button
         android:id="@+id/btn4"
@@ -36,7 +42,8 @@
         android:text="@string/setbtn4"
         android:layout_gravity="end"
         android:layout_marginEnd="10dp"
-        android:layout_marginTop="60dp"/>
+        android:layout_marginTop="60dp"
+        android:background="#00ff0000"/>
 
 
 </LinearLayout>

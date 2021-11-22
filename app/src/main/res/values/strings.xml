@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">스마트홈 IoT</string>
-    <string name="setbtn1">거실</string>
-    <string name="setbtn2">안방</string>
-    <string name="setbtn3">화장실</string>
+    <string name="setbtn1">● 거실</string>
+    <string name="setbtn2">● 안방</string>
+    <string name="setbtn3">● 화장실</string>
     <string name="setbtn4">방 관리(설정)</string>
     <string name="setbtn5">앱 시작</string>
     <string name="Off">OFF</string>
